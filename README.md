@@ -1,24 +1,24 @@
 # 👋 Daniel Rodrigo Fleck
 
-**Transição para TI | Sistemas críticos, sustentação, dados, automação, requisitos e gestão técnico-operacional**
+**Retorno e Atualização em Tecnologia | Sustentação • Sistemas Relacionais • Git • PostgreSQL/PostGIS • Requisitos • Gestão Técnico-Operacional**
 
-Sou Oficial da Polícia Militar do Paraná, com trajetória em liderança, planejamento, coordenação de equipes, análise documental, gestão de protocolos, elaboração de relatórios e atuação em ambientes operacionais críticos.
+Profissional com trajetória em liderança, planejamento, coordenação de equipes, análise documental, gestão de protocolos, elaboração de relatórios e atuação em ambientes operacionais críticos.
 
-Atualmente conduzo uma transição estruturada para o mercado civil de tecnologia, com foco em **SQL, Python, automação, dados, requisitos, documentação técnica, sustentação de sistemas e suporte técnico N2/N3**.
+Atualmente conduzo um processo estruturado de **retorno e atualização em tecnologia**, com foco em **sustentação de sistemas, suporte técnico N2/N3, SQL, PostgreSQL, PostGIS, Git, GitHub, GitLab, automação, requisitos e documentação técnica**.
 
-Minha proposta não é me apresentar como um júnior recém-formado, mas como um profissional em reatualização técnica que já teve vivência real com sistemas em produção, suporte, desenvolvimento, infraestrutura, dados sensíveis, continuidade de serviço e gestão de equipes.
+Minha proposta não é me apresentar como um júnior recém-formado, mas como um profissional em reatualização técnica que já teve vivência real com sistemas em produção, versionamento, bancos de dados, infraestrutura, dados geográficos, continuidade de serviço, suporte e gestão de equipes.
 
 ---
 
 ## 🚀 Projeto principal
 
-Meu repositório central de transição:
+Meu repositório central de atualização técnica:
 
 [roadmap-transicao-ti](https://github.com/danielfleck/roadmap-transicao-ti)
 
 Nele organizo meu plano de estudos, documentação técnica, uso de Jira Cloud, Confluence, GitHub, templates, política de dados, boas práticas de versionamento e futuros projetos demonstráveis.
 
-A proposta é tratar minha transição como um projeto técnico real, com backlog, critérios de aceitação, documentação, controle de versões, evidências públicas e evolução progressiva.
+A proposta é tratar minha atualização técnica como um projeto real, com backlog, critérios de aceitação, documentação, controle de versões, evidências públicas e evolução progressiva.
 
 ---
 
@@ -28,9 +28,11 @@ A proposta é tratar minha transição como um projeto técnico real, com backlo
 - 📋 Planejamento administrativo, análise documental, relatórios e pareceres;
 - 🔄 Organização de processos, fluxos de trabalho e padronização de informações;
 - 🧩 Escrita de requisitos, histórias de usuário e critérios de aceitação;
-- 🗂️ Uso prático inicial de Jira Cloud para organização de backlog, épicos, tarefas e dependências;
-- 📚 Uso prático inicial de Confluence para diário técnico, templates e base de conhecimento;
-- 🐙 GitHub como vitrine pública de documentação, estudos e projetos;
+- 🗂️ Gestão de backlog e documentação com Jira Cloud e Confluence;
+- 🐙 Uso de GitHub para versionamento, documentação técnica, templates e consolidação progressiva de portfólio;
+- 🌿 Git em fluxo profissional de versionamento: branches, commits pequenos, rebase, merge, resolução de conflitos e uso preventivo de `.gitignore`;
+- 🗄️ Base sólida anterior em SQL e PostgreSQL, atualmente em reabsorção prática e aprofundamento;
+- 🗺️ Experiência anterior com PostGIS e dados geográficos aplicados a sistemas operacionais;
 - 🔐 Preocupação com proteção de dados, anonimização, rastreabilidade e uso responsável de dados fictícios;
 - 🤖 Uso de IA generativa como apoio à produtividade, estudo, revisão de textos e documentação técnica.
 
@@ -40,58 +42,69 @@ A proposta é tratar minha transição como um projeto técnico real, com backlo
 
 Entre 2012 e 2023 atuei em ambiente institucional de TI, com experiência prévia em desenvolvimento, sustentação, suporte, infraestrutura, bancos de dados, sistemas críticos e gestão de equipes técnicas.
 
-Esses conhecimentos estão em processo de reabsorção e atualização por meio de estudos dirigidos, documentação e projetos públicos.
+Essa base está em processo de reabsorção e atualização por meio de estudos dirigidos, documentação e projetos públicos.
+
+### Git, GitHub, GitLab e fluxo de trabalho
+
+- 🌿 Git em projetos de desenvolvimento, sustentação, estudo e documentação;
+- 🐙 GitHub como ambiente atual de documentação pública, portfólio e versionamento de estudos;
+- 🦊 GitLab como experiência anterior em ambiente institucional;
+- 🔀 Organização de branches, commits pequenos, rebase, merge e tratamento de conflitos;
+- 📄 Estruturação de repositórios com `README.md`, `.gitignore`, licença e documentação auxiliar;
+- 🚫 Cuidado para não versionar credenciais, ambientes locais, dependências geradas ou dados sensíveis;
+- 📝 Documentação técnica junto ao código.
+
+### SQL, PostgreSQL, PostGIS e bancos relacionais
+
+- 🗄️ SQL aplicado a sistemas reais;
+- 🐘 PostgreSQL, com ênfase anterior em uso associado à extensão PostGIS;
+- 🐬 MySQL/MariaDB e SQL Server;
+- 📊 Modelagem, consultas, manutenção e análise de dados operacionais;
+- 🗺️ Dados geográficos, consultas espaciais e apoio a sistemas com mapas;
+- 🔎 Preocupação com integridade, consistência, rastreabilidade e segurança da informação.
 
 ### Desenvolvimento, sustentação e sistemas críticos
 
-- Desenvolvimento e manutenção de sistemas web em PHP;
-- Experiência anterior com Symfony e aplicações institucionais;
-- Sustentação de sistemas legados e sistemas críticos em produção;
-- Correções, manutenção evolutiva, diagnóstico de falhas e continuidade de serviço;
-- Noções de qualidade de software, testes e organização de código;
-- Atuação com áreas usuárias, levantamento de necessidades e tradução de demandas operacionais em requisitos técnicos.
-
-### Bancos de dados, dados e geotecnologias
-
-- SQL e bancos relacionais;
-- PostgreSQL, MySQL/MariaDB e SQL Server;
-- Modelagem, consultas, manutenção e análise de dados operacionais;
-- PostGIS e dados geográficos;
-- Preocupação com integridade, rastreabilidade, consistência e segurança da informação.
+- 🐘 Desenvolvimento e manutenção de sistemas web em PHP;
+- 🧱 Experiência anterior com Symfony e aplicações institucionais;
+- 🏗️ Sustentação de sistemas legados e sistemas críticos em produção;
+- 🔧 Correções, manutenção evolutiva, diagnóstico de falhas e continuidade de serviço;
+- 🧪 Noções de qualidade de software, testes e organização de código;
+- 🧩 Atuação com áreas usuárias, levantamento de necessidades e tradução de demandas operacionais em requisitos técnicos.
 
 ### Infraestrutura, suporte e operação
 
-- Linux em ambiente de servidor;
-- Configuração e sustentação de serviços como Apache, Squid, PostgreSQL e bancos relacionais;
-- Docker e Vagrant em ambientes de desenvolvimento e testes;
-- Logs, auditoria, diagnóstico e suporte técnico;
-- Fundamentos de redes, serviços, infraestrutura e troubleshooting;
-- Vivência em ambientes onde indisponibilidade, falha de dados ou perda de rastreabilidade geram impacto operacional real.
+- 🐧 Linux em ambiente de servidor;
+- 🌐 Configuração e sustentação de serviços como Apache, Squid, PostgreSQL e bancos relacionais;
+- 🐳 Docker e Vagrant em ambientes de desenvolvimento e testes;
+- 🧾 Logs, auditoria, diagnóstico e suporte técnico;
+- 🌐 Fundamentos de redes, serviços, infraestrutura e troubleshooting;
+- ⚠️ Vivência em ambientes onde indisponibilidade, falha de dados ou perda de rastreabilidade geram impacto operacional real.
 
 ### Sistemas geoespaciais, AVL e telemetria operacional
 
-- Desenvolvimento em PHP de sistema para recepção de dados de geolocalização de viaturas da PMPR;
-- Processamento de dados enviados por dispositivos AVL;
-- Integração de dados de latitude, longitude, status operacional, sensores e atuadores;
-- Armazenamento e consulta de dados geográficos em banco com recursos espaciais;
-- Apresentação de viaturas em mapa de controle operacional;
-- Experiência anterior com PostGIS, Leaflet e OpenLayers;
-- Contato com processamento concorrente, paralelismo ou rotinas assíncronas para tratamento de múltiplas mensagens;
-- Vivência na integração entre software, hardware, rede, dados geográficos e operação em tempo quase real.
+- 🗺️ Desenvolvimento em PHP de sistema para recepção de dados de geolocalização de viaturas;
+- 📡 Processamento de dados enviados por dispositivos AVL;
+- 📍 Integração de dados de latitude, longitude, status operacional, sensores e atuadores;
+- 🗄️ Armazenamento e consulta de dados geográficos em banco com recursos espaciais;
+- 🖥️ Apresentação de viaturas em mapa de controle operacional;
+- 🧭 Experiência anterior com PostGIS, Leaflet e OpenLayers;
+- 🔄 Contato com processamento concorrente, paralelismo ou rotinas assíncronas para tratamento de múltiplas mensagens;
+- 🧠 Vivência na integração entre software, hardware, rede, dados geográficos e operação em tempo quase real.
 
-### Git, fluxo de trabalho e boas práticas
+---
 
-- Git e GitHub em projetos de estudo e documentação;
-- Uso de branches, commits pequenos, rebase e merge;
-- Organização de repositórios com README, `.gitignore`, licença e documentação auxiliar;
-- Cuidado para não versionar credenciais, ambientes locais, dependências geradas ou dados sensíveis;
-- Documentação técnica junto ao código.
+## 🎓 Formação complementar relevante
+
+- 🎓 **Pós-Graduação Lato Sensu em Direito Digital e Proteção de Dados** — Centro Universitário União das Américas Descomplica, 390h;
+- 🔐 Formação aderente a proteção de dados, tecnologia, internet, direitos intelectuais, escrita técnica e organização do conhecimento;
+- 🧭 Reforça minha preocupação com LGPD, dados sensíveis, anonimização, governança da informação e uso responsável de dados em projetos públicos.
 
 ---
 
 ## ⚙️ O que me diferencia de um perfil júnior tradicional
 
-Estou reatualizando minha prática técnica, mas trago uma vivência profissional que vai além do estudo acadêmico.
+Estou reatualizando minha prática técnica, mas trago vivência profissional que vai além do estudo acadêmico.
 
 Já trabalhei com:
 
@@ -99,14 +112,16 @@ Já trabalhei com:
 - sustentação de sistemas críticos;
 - continuidade de serviço;
 - suporte técnico e diagnóstico de falhas;
+- SQL, PostgreSQL e PostGIS aplicados a sistemas reais;
+- Git, GitHub/GitLab e organização de código;
+- infraestrutura Linux e serviços de servidor;
 - dados sensíveis, logs e rastreabilidade;
-- infraestrutura e servidores;
 - comunicação com áreas usuárias;
 - documentação de processos;
 - coordenação de equipes;
 - integração entre software, dados, rede, operação e usuários finais.
 
-Minha transição busca transformar essa maturidade operacional e técnica anterior em entregas atuais, documentadas e verificáveis.
+Minha atualização técnica busca transformar essa maturidade operacional e técnica anterior em entregas atuais, documentadas e verificáveis.
 
 ---
 
@@ -114,15 +129,16 @@ Minha transição busca transformar essa maturidade operacional e técnica anter
 
 Atualmente estou priorizando:
 
-- SQL e modelagem relacional;
-- Python para automação e dados;
-- manipulação de planilhas e relatórios;
-- requisitos, BPMN e critérios de aceitação;
-- APIs, JSON e Postman;
-- automação de processos;
-- sustentação e suporte técnico N2/N3;
-- GitHub, Markdown e documentação de portfólio;
-- segurança, anonimização e uso de dados fictícios.
+- 🗄️ SQL, PostgreSQL e modelagem relacional;
+- 🗺️ PostGIS e dados geográficos;
+- 🐍 Python para automação e dados;
+- 📊 manipulação de planilhas e relatórios;
+- 🧩 requisitos, BPMN e critérios de aceitação;
+- 🔌 APIs, JSON e Postman;
+- ⚙️ automação de processos;
+- 🛟 sustentação e suporte técnico N2/N3;
+- 🐙 GitHub, Markdown e documentação de portfólio;
+- 🔐 segurança, anonimização e uso de dados fictícios.
 
 Ferramentas específicas que ainda não pratiquei suficientemente não são apresentadas como domínio atual.
 
@@ -145,17 +161,23 @@ Também tenho interesse em práticas de anonimização, mascaramento e proteçã
 
 ---
 
-## 🧪 Portfólio demonstrável
+## 🧪 Portfólio e evidências públicas
 
-Os projetos serão publicados apenas quando estiverem realmente construídos, documentados e disponíveis para consulta.
+O principal ponto de partida para acompanhar minha evolução técnica é o repositório:
 
-| Projeto | Objetivo | Repositório | Página publicada | Status |
-|---|---|---|---|---|
-| A definir | A definir | A definir | A definir | Em construção |
+[roadmap-transicao-ti](https://github.com/danielfleck/roadmap-transicao-ti)
 
-Critério pessoal:
+Nele o recrutador encontrará:
 
-> Não publicar como portfólio aquilo que ainda é apenas intenção. Projeto demonstrável precisa ter código, documentação, resultado e aprendizado registrado.
+- backlog de estudos organizado;
+- uso de Jira Cloud e Confluence;
+- templates de documentação técnica;
+- política de dados e segurança;
+- estrutura de repositórios e boas práticas de versionamento;
+- registros de evolução técnica;
+- links para futuros projetos demonstráveis.
+
+Novos projetos serão adicionados somente quando estiverem construídos, documentados e disponíveis para consulta.
 
 ---
 
@@ -170,15 +192,16 @@ Critério pessoal:
 
 - 🌐 Blog profissional: [https://daniel.fleck.dev.br](https://daniel.fleck.dev.br)
 - 📄 Currículo HTML: [https://daniel.fleck.dev.br/curriculo.html](https://daniel.fleck.dev.br/curriculo.html)
-- 🧭 Roadmap de transição: [roadmap-transicao-ti](https://github.com/danielfleck/roadmap-transicao-ti)
+- 🧭 Roadmap de atualização técnica: [roadmap-transicao-ti](https://github.com/danielfleck/roadmap-transicao-ti)
+- 🐙 GitHub: [https://github.com/danielfleck](https://github.com/danielfleck)
 - 💼 LinkedIn: [Daniel Rodrigo Fleck](https://www.linkedin.com/in/daniel-rodrigo-fleck/)
 
 ---
 
 ## 🔎 Transparência
 
-Estou em transição de carreira para TI.
+Estou em processo de retorno e atualização em tecnologia.
 
-Tenho experiência anterior relevante em tecnologia, sistemas críticos, suporte, sustentação, desenvolvimento, bancos de dados, infraestrutura, geotecnologias, integração com dispositivos e gestão de equipes. Ao mesmo tempo, trato essa base com responsabilidade: separo o que é experiência anterior, o que é competência atual e o que ainda está em estudo.
+Tenho experiência anterior relevante em sistemas críticos, suporte, sustentação, desenvolvimento, bancos de dados, infraestrutura, geotecnologias, integração com dispositivos, Git/GitHub/GitLab e gestão de equipes. Ao mesmo tempo, trato essa base com responsabilidade: separo o que é experiência anterior, o que é competência atual e o que ainda está em estudo.
 
 Meu objetivo é reconstruir fluência técnica com método, documentação, segurança, versionamento, prática verificável e entregas progressivas.
