@@ -2,11 +2,11 @@
 
 **Retorno e Atualização em Tecnologia | Sustentação • Sistemas Relacionais • Git • PostgreSQL/PostGIS • Requisitos • Gestão Técnico-Operacional**
 
-Profissional com trajetória em liderança, planejamento, coordenação de equipes, análise documental, gestão de protocolos, elaboração de relatórios e atuação em ambientes operacionais críticos.
+Profissional com  em liderança, planejamento, coordenação de equipes, análise documental, gestão de protocolos, elaboração de relatórios e atuação em ambientes operacionais críticos.
 
 Atualmente conduzo um processo estruturado de **retorno e atualização em tecnologia**, com foco em **sustentação de sistemas, suporte técnico N2/N3, SQL, PostgreSQL, PostGIS, Git, GitHub, GitLab, automação, requisitos e documentação técnica**.
 
-Minha proposta não é me apresentar como um júnior recém-formado, mas como um profissional em reatualização técnica que já teve vivência real com sistemas em produção, versionamento, bancos de dados, infraestrutura, dados geográficos, continuidade de serviço, suporte e gestão de equipes.
+Este perfil é usado para **sondagem de mercado, reconstrução de fluência técnica e organização de evidências públicas**. A proposta não é me apresentar como um júnior recém-formado, mas como um profissional em reatualização técnica, com vivência anterior em sistemas em produção, versionamento, bancos de dados, infraestrutura, dados geográficos, continuidade de serviço, suporte e gestão de equipes.
 
 ---
 
@@ -30,8 +30,8 @@ A proposta é tratar minha atualização técnica como um projeto real, com back
 - 🧩 Escrita de requisitos, histórias de usuário e critérios de aceitação;
 - 🗂️ Gestão de backlog e documentação com Jira Cloud e Confluence;
 - 🐙 Uso de GitHub para versionamento, documentação técnica, templates e consolidação progressiva de portfólio;
-- 🌿 Git em fluxo profissional de versionamento: branches, commits pequenos, rebase, merge, resolução de conflitos e uso preventivo de `.gitignore`;
-- 🗄️ Base sólida anterior em SQL e PostgreSQL, atualmente em reabsorção prática e aprofundamento;
+- 🌿 Git em contexto de sustentação: integração de mudanças, resolução de divergências, rastreabilidade de histórico, governança de repositórios e documentação técnica vinculada ao código;
+- 🗄️ Base anterior consolidada em SQL e PostgreSQL, atualmente em reabsorção prática e aprofundamento;
 - 🗺️ Experiência anterior com PostGIS e dados geográficos aplicados a sistemas operacionais;
 - 🔐 Preocupação com proteção de dados, anonimização, rastreabilidade e uso responsável de dados fictícios;
 - 🤖 Uso de IA generativa como apoio à produtividade, estudo, revisão de textos e documentação técnica.
@@ -49,8 +49,8 @@ Essa base está em processo de reabsorção e atualização por meio de estudos 
 - 🌿 Git em projetos de desenvolvimento, sustentação, estudo e documentação;
 - 🐙 GitHub como ambiente atual de documentação pública, portfólio e versionamento de estudos;
 - 🦊 GitLab como experiência anterior em ambiente institucional;
-- 🔀 Organização de branches, commits pequenos, rebase, merge e tratamento de conflitos;
-- 📄 Estruturação de repositórios com `README.md`, `.gitignore`, licença e documentação auxiliar;
+- 🔀 Integração de mudanças, tratamento de conflitos, revisão de histórico e organização de fluxo entre branches;
+- 📄 Governança de repositórios, documentação técnica e rastreabilidade das decisões de projeto;
 - 🚫 Cuidado para não versionar credenciais, ambientes locais, dependências geradas ou dados sensíveis;
 - 📝 Documentação técnica junto ao código.
 
@@ -137,7 +137,7 @@ Atualmente estou priorizando:
 - 🔌 APIs, JSON e Postman;
 - ⚙️ automação de processos;
 - 🛟 sustentação e suporte técnico N2/N3;
-- 🐙 GitHub, Markdown e documentação de portfólio;
+- 🐙 governança de repositórios, documentação técnica e consolidação de portfólio;
 - 🔐 segurança, anonimização e uso de dados fictícios.
 
 Ferramentas específicas que ainda não pratiquei suficientemente não são apresentadas como domínio atual.
@@ -200,7 +200,7 @@ Novos projetos serão adicionados somente quando estiverem construídos, documen
 
 ## 🔎 Transparência
 
-Estou em processo de retorno e atualização em tecnologia.
+Estou em processo de retorno e atualização em tecnologia, com uso deste perfil para sondagem de mercado e construção progressiva de evidências públicas.
 
 Tenho experiência anterior relevante em sistemas críticos, suporte, sustentação, desenvolvimento, bancos de dados, infraestrutura, geotecnologias, integração com dispositivos, Git/GitHub/GitLab e gestão de equipes. Ao mesmo tempo, trato essa base com responsabilidade: separo o que é experiência anterior, o que é competência atual e o que ainda está em estudo.
 
